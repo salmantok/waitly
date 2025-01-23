@@ -1,6 +1,6 @@
 {
   "name": "waitly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "waitly alat ringan untuk menangani delay berbasis promise",
   "exports": {
     "require": "./dist/cjs/index.js",
