@@ -1,0 +1,28 @@
+{
+  "name": "waitly",
+  "version": "0.0.0",
+  "description": "waitly alat ringan untuk menangani delay berbasis promise",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "files": [
+    "./dist/"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "waitly",
+    "delay",
+    "promise",
+    "timeout",
+    "settimeout"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/waitly.git"
+  },
+  "homepage": "https://github.com/salmantok/waitly#readme"
+}
